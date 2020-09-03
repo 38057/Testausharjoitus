@@ -1,5 +1,5 @@
 # Painoindeksi
-Painoindeksi laskentaan käyttämällä kaaviota: asiakkaan paino / pituus * pituus.
+Painoindeksi laskentaan käyttämällä kaaviota: asiakkaan paino / (pituus * pituus).
 
 # Rasvaprosentti
 Rasvaprosentti laskeetaan käyttämällä kaaviota:
